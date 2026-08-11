@@ -1,0 +1,7 @@
+.DS_Store
+*.asv
+*.m~
+
+# Study data and generated results are not versioned by default.
+data/
+outputs/
